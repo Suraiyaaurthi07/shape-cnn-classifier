@@ -1,2 +1,2 @@
-# shape-cnn-classifier-aurthi
+# shape-cnn-classifier
 
